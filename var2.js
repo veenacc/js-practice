@@ -32,7 +32,7 @@ console.log(random)
 
 var author ="erle stanley gardner";
 var title = "perry mason";
-city ="chicago";
+var city ="chicago";
 
 if (pwd[random] === "joshua")
 {
